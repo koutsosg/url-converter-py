@@ -29,6 +29,7 @@ The Link Converter is a Python script that allows users to convert links between
 ### Step 1: Install Python
 
 To run this script, you must have Python installed. You can use a portable version of Python to avoid installing it system-wide.
+//NEED CORRECTIONS
 
 1. **Download Portable Python**:
 
